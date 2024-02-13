@@ -1,0 +1,32 @@
+.navbar {
+    width: 100%;
+    height: auto;
+    background: #222a35;
+    /* position: fixed; */
+    overflow: auto;
+    overflow: hidden;
+    top: 0;
+    bottom: 0;
+}
+
+.demo-section {
+    text-align: right;
+    color: #fff;
+    position:relative;
+    left:900px; 
+    top:10px;
+}
+
+.demo-section+.demo-section {
+    margin-top: 16px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+/* .navbar-right{
+    list-style: none; */
+/* float: right; */
+/* display: inline-block;
+} */

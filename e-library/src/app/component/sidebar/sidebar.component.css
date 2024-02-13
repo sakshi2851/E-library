@@ -1,0 +1,28 @@
+.nav-list{
+    list-style: none;
+    height: 100%;
+    padding: 0%;
+    margin-bottom: 0%;
+}
+.nav-list-item mat-icon {
+    font-size: 25px;
+    text-align: left;
+    line-height: 25px;
+}
+.nav-list-item{
+    display: flex;
+    align-items: center;
+    height: 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.side-nav-content{
+   
+    
+    height: calc(120vh - 1rem);
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+    background-color: #222a35;
+    /* border-top: 1px solid #fff; */
+}
